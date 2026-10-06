@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TapShare</string>
+    <string name="service_desc">Shares your link when tapped</string>
+</resources>
